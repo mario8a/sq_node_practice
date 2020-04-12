@@ -1,0 +1,20 @@
+{
+  "name": "node_sql",
+  "version": "1.0.0",
+  "description": "Ejemplo practica node js con sql, basado en el video FAZT\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D de Fazt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mario8a",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {}
+}
